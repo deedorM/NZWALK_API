@@ -1,0 +1,23 @@
+{
+  "$schema": "https://reqnroll.net/schemas/reqnroll-config-latest.json",
+  "language": "en",
+  "bindingCulture": "en-US",
+  "stepDefinitionSkeletonStyle": "CucumberExpressionStyle",
+  "featureLanguage": "en",
+  "unitTestProvider": "NUnit",
+  "stepAssemblies": [
+    {
+      "assembly": "NZWalks.API.Tests"
+    }
+  ],
+  "runtime": {
+    "stopAtFirstError": false,
+    "missingOrPendingStepsOutcome": "Inconclusive"
+  },
+  "trace": {
+    "traceSuccessfulSteps": false,
+    "traceTimings": false,
+    "minTracedDuration": "0:0:0.100"
+  },
+  "stepDefinitionSkeletonProvider": "Reqnroll.Parser.Gherkin.GherkinDialectProvider"
+}

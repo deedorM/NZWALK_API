@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+  <!-- Configurations for test execution -->
+  <TestRunConfiguration>
+    <MaxCpuCount>1</MaxCpuCount>
+    <ResultsDirectory>.\TestResults</ResultsDirectory>
+    <TargetPlatform>x64</TargetPlatform>
+    <TargetFrameworkVersion>net9.0</TargetFrameworkVersion>
+  </TestRunConfiguration>
+
+  <!-- NUnit adapter configuration -->
+  <NUnit>
+    <NumberOfTestWorkers>1</NumberOfTestWorkers>
+  </NUnit>
+
+  <!-- Environment variables for tests -->
+  <RunConfiguration>
+    <EnvironmentVariables>
+      <API_BASE_URL>https://localhost:7070</API_BASE_URL>
+      <API_TIMEOUT_SECONDS>30</API_TIMEOUT_SECONDS>
+    </EnvironmentVariables>
+  </RunConfiguration>
+</RunSettings>
