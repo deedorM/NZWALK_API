@@ -158,10 +158,13 @@ C:\Dev\NZWalks\NZWalks.API\obj\Debug\net9.0\staticwebassets.build.json
 C:\Dev\NZWalks\NZWalks.API\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Dev\NZWalks\NZWalks.API\obj\Debug\net9.0\staticwebassets.development.json
 C:\Dev\NZWalks\NZWalks.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Dev\NZWalks\NZWalks.API\obj\Debug\net9.0\swae.build.ex.cache
 C:\Dev\NZWalks\NZWalks.API\obj\Debug\net9.0\NZWalks..A36796ED.Up2Date
 C:\Dev\NZWalks\NZWalks.API\obj\Debug\net9.0\NZWalks.API.dll
 C:\Dev\NZWalks\NZWalks.API\obj\Debug\net9.0\refint\NZWalks.API.dll
 C:\Dev\NZWalks\NZWalks.API\obj\Debug\net9.0\NZWalks.API.pdb
 C:\Dev\NZWalks\NZWalks.API\obj\Debug\net9.0\NZWalks.API.genruntimeconfig.cache
 C:\Dev\NZWalks\NZWalks.API\obj\Debug\net9.0\ref\NZWalks.API.dll
+C:\Dev\NZWalks\NZWalks.API\bin\Debug\net9.0\AutoMapper.dll
+C:\Dev\NZWalks\NZWalks.API\bin\Debug\net9.0\System.Diagnostics.DiagnosticSource.dll
+C:\Dev\NZWalks\NZWalks.API\obj\Debug\net9.0\NZWalks.API.sourcelink.json
+C:\Dev\NZWalks\NZWalks.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

@@ -4,3 +4,5 @@ global using NZWalks.API.Data;
 global using NZWalks.API.Model.Domain;
 global using NZWalks.API.Model.DTO;
 global using NZWalks.API.Repositories;
+global using AutoMapper;
+global using NZWalks.API.Mapping;

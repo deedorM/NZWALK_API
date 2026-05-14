@@ -1,0 +1,11 @@
+.vs/
+.vscode/
+bin/
+obj/
+**/bin/
+**/obj/
+*.user
+*.suo
+bin/
+obj/
+.vs/
